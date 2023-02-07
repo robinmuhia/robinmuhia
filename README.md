@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Robin Mike Muhia Onyancha</h1>
 <h3 align="center">A full stack web developer</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinmuhia&label=Profile%20views&color=0e75b6&style=flat" alt="robinmuhia" /> </p>
 
 <p align="left"> <a href="https://twitter.com/robinonyancha" target="blank"><img src="https://img.shields.io/twitter/follow/robinonyancha?logo=twitter&style=for-the-badge" alt="robinonyancha" /></a> </p>
 
-- 🔭 I’m currently working on **arbitage web app**
+- 🔭 I’m currently working on **an arbitage web app**
 
 - 🌱 I’m currently learning **Django, Next.js**
 
