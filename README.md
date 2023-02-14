@@ -18,7 +18,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/robinonyancha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="robinonyancha" height="30" width="40" /></a>
 <a href="https://linkedin.com/mwlite/in/mike-robin-69a4841bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mike robin" height="30" width="40" /></a>
 <a href="https://instagram.com/robin_muhia?igshid=ZDdkNTZiNTM=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robin muhia" height="30" width="40" /></a>
 </p>
