@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **an arbitage web app**
 
-- 🌱 I’m currently learning **Django, Next.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/robinmuhia](https://github.com/robinmuhia)
 
