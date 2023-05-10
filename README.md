@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/robinonyancha" target="blank"><img src="https://img.shields.io/twitter/follow/robinonyancha?logo=twitter&style=for-the-badge" alt="robinonyancha" /></a> </p>
 
-- 🔭 I’m currently working on **an arbitage web app**
+- 🔭 I’m currently working on **insurance tech**
 
 - 🌱 I’m currently learning **Next.js**
 
