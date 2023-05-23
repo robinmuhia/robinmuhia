@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **insurance tech**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/robinmuhia](https://github.com/robinmuhia)
 
