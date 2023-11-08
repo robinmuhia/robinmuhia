@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinmuhia&label=Profile%20views&color=0e75b6&style=flat" alt="robinmuhia" /> </p>
 
 
-- 🔭 I’m currently working on **insurance tech**
+- 🔭 I’m currently working on **health fintech**
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **bettering workflows and being a better man**
 
 - 👨‍💻 Some of my projects are available at [my website](https://robinmuhia.com)
 
