@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **health fintech**
 
-- 🌱 I’m currently learning **bettering workflows and being a better man**
+- 🌱 I’m currently learning **on bettering CI/CD workflows**
 
 - 👨‍💻 Some of my projects are available at [my website](https://robinmuhia.com)
 
