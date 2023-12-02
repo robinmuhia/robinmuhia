@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinmuhia&label=Profile%20views&color=0e75b6&style=flat" alt="robinmuhia" /> </p>
 
 
-- 🔭 I’m currently working on **health fintech**
+- 🔭 I’m currently working on **health martech and fintech**
 
 - 🌱 I’m currently learning **to better my CI/CD workflows**
 
